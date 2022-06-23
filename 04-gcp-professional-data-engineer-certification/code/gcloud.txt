@@ -1,0 +1,47 @@
+Vision : 
+
+pip3 install --upgrade google-cloud-vision
+export GOOGLE_APPLICATION_CREDENTIALS="keys.json"
+gcloud ml vision detect-logos vodafone.jpg
+
+
+language : 
+
+pip3 install google-cloud-language
+
+gcloud ml language classify-text --content='That is not the case with the BJP. Our aim is to reach out to the intellectual classes and inform them about the ideology and policies of the party'
+
+Some review
+
+gcloud ml language analyze-sentiment --content='I am good' 
+
+
+
+gs://cloud-samples-data/ai-platform/flowers/flowers.csv
+
+gs://cloud-ml-data/NL-classification/happiness.csv
+
+https://crontab.guru/
+
+sales_data_sample
+
+https://datastudio.google.com/u/0/reporting/dde29887-56b8-4350-854d-9e3d6d3d183c/page/E3wZC/edit
+
+
+https://docs.google.com/spreadsheets/d/1pTIbZD5brzvxzEaTwErJM90YpdqpsCDmnjRqLYpYY8w/edit#gid=726308946
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

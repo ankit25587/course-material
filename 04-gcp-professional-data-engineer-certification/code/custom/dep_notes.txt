@@ -1,0 +1,22 @@
+service-914996658146@gcp-sa-aiplatform.iam.gserviceaccount.com 
+the 
+iam.serviceAccountAdmin role on service account 
+
+ml-demo@gcp-pde-321201.iam.gserviceaccount.com
+
+
+Give custom service (ml-demo) account access to  service-458929234481@gcp-sa-aiplatform.iam.gserviceaccount.com
+Go inside custom account
+
+JSON request
+{
+
+	"instances" : 
+	[
+		 [11,2,3,4],
+		 [5.1, 3.5, 1.4, 0.2]
+		
+	]
+}
+
+
