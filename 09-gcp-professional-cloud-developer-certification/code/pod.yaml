@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: bare-pod
+  labels:
+    name: desc-dep-1
+spec:
+  containers:
+  - name: stand-pod-1
+    image: gcr.io/practice-project-360301/myapp@sha256:7260e801522f23afd060c0e72f91c59444b6f85400023ced7215b306d8d2b140
+    resources:
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
+    ports:
+      - containerPort: 8080

@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: desc-deployment
+spec:
+  selector:
+    matchLabels:
+      app: desc-dep-1
+  template:
+    metadata:
+      labels:
+        app: desc-dep-1
+    spec:
+      containers:
+      - name: nginx-con
+        image: nginx
+        resources:
+          requests:
+            memory: "32Mi"
+            cpu: "100m"
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
