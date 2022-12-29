@@ -5,6 +5,7 @@ https://www.udemy.com/user/ankitmistry/
 ```
 # Google Cloud - GCP Courses  Direct Link
 - [GCP Associate Cloud Engineer Certification : Google Cloud](https://www.udemy.com/course/google-cloud-gcp-associate-cloud-engineer-certification/?referralCode=9A14D72ABB7FE8C7B72D)
+![This is an image](Slide1.PNG)
 - [Google Cloud Digital Leader Certification](https://www.udemy.com/course/google-cloud-digital-leader-certification-guide/?referralCode=B1D21345A1417B30488A)
 - [Google Professional Cloud Security Engineer Certification](https://www.udemy.com/course/google-cloud-gcp-professional-cloud-security-engineer-certification/?referralCode=FA7CE4AE91189A0CF3BF)
 - [Google Cloud Professional Data Engineer Certification](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/?referralCode=C7C847C58B1AA03A1164)
