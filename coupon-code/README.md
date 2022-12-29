@@ -22,6 +22,7 @@ https://www.udemy.com/user/ankitmistry/
 (https://www.udemy.com/course/machine-learning-with-google-cloud/?referralCode=7063531066DE6F1CC02D)
 - [Google Cloud Professional Database Engineer Certification]
 (https://www.udemy.com/course/google-cloud-database/?referralCode=CE268BF43A74309BE914)
+- [GCP Associate Cloud Engineer Certification : Google Cloud](https://www.udemy.com/course/google-cloud-gcp-associate-cloud-engineer-certification/?referralCode=9A14D72ABB7FE8C7B72D)
 
 
 
