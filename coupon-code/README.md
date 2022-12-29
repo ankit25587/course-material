@@ -10,6 +10,7 @@ https://www.udemy.com/user/ankitmistry/
 - [Google Cloud Professional Data Engineer Certification](https://www.udemy.com/course/google-cloud-gcp-professional-data-engineer-certification/?referralCode=C7C847C58B1AA03A1164)
 - [Terraform for Beginners using GCP - Google Cloud (Hands-on)](https://www.udemy.com/course/terraform-for-beginners-using-google-cloud/?referralCode=D729F08F13D688340DF3)
 - [Google Cloud Function with 5 Hands-on Demo - Serverless GCP](https://www.udemy.com/course/google-cloud-function-serverless/?referralCode=C744240729FB738FCD56)
+
 - [Google Cloud Services Fundamental Crash Course For Beginners]
 (https://www.udemy.com/course/google-cloud-services-crash-course/?referralCode=34F080861322304B7A7E)
 - [GCP Google Cloud Professional DevOps Engineer Certification]
